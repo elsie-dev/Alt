@@ -1,0 +1,4 @@
+pwd: current working directory
+cd; directory chnage
+ls:list commands in your file
+
