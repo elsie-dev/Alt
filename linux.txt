@@ -3,3 +3,5 @@ cd; directory chnage
 ls:list commands in your file
 tac: reverse of cat command
 head: displays the first 10 lines of code
+
+file system hierachy
